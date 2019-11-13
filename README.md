@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-## ML Projrct List
+## ML Project List
 
 | Theme | Algorithm (Library) | Repository| Software |
 | ---- | ---- | ---- | ---- |
