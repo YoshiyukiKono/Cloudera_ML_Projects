@@ -4,7 +4,7 @@
 
 |  Theme  |  Algorithm (Library)  |Repository| Software |
 | ---- | ---- | ---- | ---- |
-| IoT | () | [link](https://github.com/YoshiyukiKono/FaceMonitoring.git) | NiFi, MiNiFi |
+| IoT | (cv2) | [link](https://github.com/YoshiyukiKono/FaceMonitoring.git) | NiFi, MiNiFi / Flask,  |
 | NLP | NLP (Spacyr, Sparklyr) | [link](https://github.com/YoshiyukiKono/SocialMediaNLP.git) | R, Spark |
 | NLP/Sentiment Analysis | LSTM (PyTorch) | [link](https://github.com/YoshiyukiKono/SocialMediaSentimentAnalysis.git) | Python |
 | NLP/Preprocess | (Json Serde Libraries) | [link](https://github.com/YoshiyukiKono/SocialMediaDataEngineering.git.git) | Hive, Hue |
