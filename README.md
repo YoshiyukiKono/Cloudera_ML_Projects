@@ -1,4 +1,4 @@
-# Cloudera ML Projects
+# Machine Learning Projects
 
 
 |  Theme  |  Algorithm (Library)  |Repository| Software |
