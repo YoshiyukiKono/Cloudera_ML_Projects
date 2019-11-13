@@ -3,8 +3,9 @@
 
 |  Theme  |  Algorithm (Library)  |Repository| Software |
 | ---- | ---- | ---- | ---- |
-| IoT | () | https://github.com/YoshiyukiKono/FaceMonitoring.git | NiFi, MiNiFi (No CDSW) |
-| NLP | () | https://github.com/YoshiyukiKono/SocialMediaNLP.git | |
-| NLP | LSTM (PyTorch) | https://github.com/YoshiyukiKono/SocialMediaSentimentAnalysis.git | |
-| Data Engineering | () | https://github.com/YoshiyukiKono/SocialMediaDataEngineering.git.git | |
-
+| IoT | () | https://github.com/YoshiyukiKono/FaceMonitoring.git | NiFi, MiNiFi |
+| NLP | () | https://github.com/YoshiyukiKono/SocialMediaNLP.git | R |
+| NLP | LSTM (PyTorch) | https://github.com/YoshiyukiKono/SocialMediaSentimentAnalysis.git | Python |
+| NLP(Preprocess) | \[HiveQL\] | https://github.com/YoshiyukiKono/SocialMediaDataEngineering.git.git | Hive, Hue |
+| Auto ML |  |  |  |
+| XG Boost |  |  |  |
